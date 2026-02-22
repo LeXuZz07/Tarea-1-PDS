@@ -4,5 +4,5 @@ Repositorio con los archivos correspondientes a la primer tarea de Procesamiento
 Grupo 4
 
 Alumnos:
-Jímenez Gutiérrez Axel Uriel
-Gonzalez Arredondo Rafael
+- Jímenez Gutiérrez Axel Uriel
+- Gonzalez Arredondo Rafael
